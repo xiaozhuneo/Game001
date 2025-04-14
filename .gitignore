@@ -1,5 +1,5 @@
-"Library/" 
-"Temp/" 
-"Obj/" 
-"Build/" 
-"*.csproj" 
+Library/*
+Temp/* 
+Obj/*
+Build/* 
+*.csproj 
